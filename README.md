@@ -40,7 +40,7 @@ python -m streamlit run analyzer.py
 ```
 The app will open in your browser 👉 http://localhost:8501
 
-###📝 Usage
+### 📝 Usage
 Read the scenario shown.
 #### 1.Write your answer (minimum 50 words).
 If shorter, the system auto‑expands it.
